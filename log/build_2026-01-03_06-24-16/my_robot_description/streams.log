@@ -1,0 +1,48 @@
+[0.022s] Invoking command in '/home/vedant/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vedant/ros2_ws/src/vscode/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/vedant/ros2_ws/install/my_robot_description
+[0.203s] -- The C compiler identification is GNU 11.4.0
+[0.355s] -- The CXX compiler identification is GNU 11.4.0
+[0.389s] -- Detecting C compiler ABI info
+[0.535s] -- Detecting C compiler ABI info - done
+[0.549s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.549s] -- Detecting C compile features
+[0.550s] -- Detecting C compile features - done
+[0.555s] -- Detecting CXX compiler ABI info
+[0.734s] -- Detecting CXX compiler ABI info - done
+[0.754s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.756s] -- Detecting CXX compile features
+[0.760s] -- Detecting CXX compile features - done
+[0.767s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.134s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.453s] -- Configuring done
+[1.471s] -- Generating done
+[1.477s] -- Build files have been written to: /home/vedant/ros2_ws/build/my_robot_description
+[1.492s] Invoked command in '/home/vedant/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vedant/ros2_ws/src/vscode/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/vedant/ros2_ws/install/my_robot_description
+[1.494s] Invoking command in '/home/vedant/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vedant/ros2_ws/build/my_robot_description -- -j4 -l4
+[1.578s] Invoked command in '/home/vedant/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vedant/ros2_ws/build/my_robot_description -- -j4 -l4
+[1.598s] Invoking command in '/home/vedant/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vedant/ros2_ws/build/my_robot_description
+[1.609s] -- Install configuration: ""
+[1.609s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//urdf
+[1.612s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+[1.615s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[1.615s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+[1.615s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//launch
+[1.615s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+[1.615s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+[1.616s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//rviz
+[1.616s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+[1.619s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[1.620s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[1.622s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[1.628s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[1.629s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[1.629s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[1.629s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[1.630s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[1.630s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[1.630s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[1.630s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[1.631s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[1.631s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[1.631s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[1.631s] -- Installing: /home/vedant/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
+[1.639s] Invoked command in '/home/vedant/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vedant/ros2_ws/build/my_robot_description
